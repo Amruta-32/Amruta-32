@@ -15,5 +15,5 @@ I am a B.Tech student with a strong interest in software development and problem
 ## 🏆 GitHub Trophies 
 [![trophy](https://github-profile-trophy.vercel.app/?username=/Amruta-32)](https://github.com//Amruta-32/github-profile-trophy)### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Amruta-32&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Amruta-32)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
