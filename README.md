@@ -12,9 +12,8 @@ I am a B.Tech student with a strong interest in software development and problem
 ![](https://streak-stats.demolab.com/?user=Amruta-32&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Amruta-32&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Amruta-32&theme=default&no-frame=false&no-bg=true&margin-w=4)
-
+## 🏆 GitHub Trophies 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Amruta-32)](https://github.com/ryo-ma/github-profile-trophy)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Amruta-32&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
