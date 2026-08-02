@@ -1,6 +1,27 @@
-# 💫 About Me:
-I am a B.Tech student with a strong interest in software development and problem-solving. I primarily work with the MERN stack (MongoDB, Express.js, React.js, Node.js) to build full-stack web applications.<br><br>I have hands-on experience developing projects that focus on real-world problems, including user-focused platforms and dashboards. One of my key projects is an Orphan Helper system, designed to connect users with support services efficiently through a structured and scalable web interface.<br><br>In addition to web development, I have a good understanding of Data Structures and Algorithms (DSA), which helps me write optimized and efficient code. I am also exploring machine learning basics and data-driven applications.<br><br>I enjoy building practical solutions, learning new technologies, and continuously improving my development skills through projects and problem-solving.
+# Hi, I'm Amruta 👋
 
+Full-stack MERN developer building role-based dashboards, REST APIs, and real-time data systems — with a focus on platforms that connect vulnerable communities (orphans, NGOs, donors) to the support services they need.
+
+Currently sharpening DSA fundamentals and exploring ML basics on the side.
+
+## What I work with
+
+- **Frontend:** React.js, JavaScript, HTML5
+- **Backend:** Node.js, Express.js, Flask
+- **Databases:** MongoDB, MySQL, SQLite, Supabase, Firebase
+- **Languages:** Java, Python, PHP
+- **Deploy/Infra:** Docker, AWS, Vercel, Render, GitHub Actions
+- **Data/ML (learning):** NumPy, Pandas, scikit-learn, Keras
+
+## Projects worth a look
+
+- **[nurture-orphan](https://github.com/Amruta-32/nurture-orphan)** — MERN platform for orphan rescue reporting, adoption, sponsorship, and NGO volunteer coordination, with role-based dashboards. [Live demo →](https://nurture-orphan.onrender.com/)
+- **[NGO_Finance_manager](https://github.com/Amruta-32/NGO_Finance_manager)** — beneficiary tracking, volunteer coordination, and transparent donation reporting for NGOs
+- **[AttendanceApp](https://github.com/Amruta-32/AttendanceApp)** — Android app for teachers to record and track student attendance
+
+## Reach me
+
+📩 [LinkedIn](https://www.linkedin.com/in/amruta-wavdhane) — that's the fastest way to reach me.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amruta-wavdhane) 
