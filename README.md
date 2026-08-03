@@ -91,9 +91,8 @@ https://github.com/Amruta-32/AttendanceApp
 
 # 💻 Coding Profiles
 
-- 🟡 LeetCode: https://leetcode.com/u/YOUR_USERNAME/
-- 🟢 GeeksforGeeks: https://www.geeksforgeeks.org/user/YOUR_USERNAME/
-
+- 🟡 LeetCode: https://leetcode.com/u/amruta_wavdhane/
+ 
 ---
 
 # 🤝 Connect With Me
