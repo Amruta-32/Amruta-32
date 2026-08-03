@@ -33,9 +33,7 @@ Currently sharpening DSA fundamentals and exploring ML basics on the side.
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Amruta-32&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Amruta-32&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Amruta-32&theme=onedark&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy) 
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=Amruta-32&limit=5&theme=onedark&combine_all_yearly_contributions=true)
