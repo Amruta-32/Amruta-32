@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amruta Wavdhane</h1>
-<h3 align="center">Java Developer | Full Stack Developer | Cloud Enthusiast</h3>
+<h3 align="center">Java Developer | Full Stack Developer | Open Source Contributor</h3>
 
 <p align="center">
   <a href="https://github.com/Amruta-32">
